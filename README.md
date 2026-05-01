@@ -7,3 +7,4 @@ Where:
 P = Principal
 R = Rate of Interest
 T = Time
+Example change
